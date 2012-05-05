@@ -201,3 +201,5 @@ Sweet, hey?
 
 #### Addendum
 This documentation has used the terms 'argument' and 'parameter' interchangeably to avoid sentences that repeatedly used the same word. I trust you [know the difference](http://en.wikipedia.org/wiki/Parameter_%28computer_programming%29#Parameters_and_arguments "Parameters and Arguments at Wikipedia") and will forgive my loose language.
+
+Inspiration for this code came via the excellent [Lithium Framework](http://lithify.me/ "Lithium Framework").
