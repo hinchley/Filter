@@ -1,4 +1,9 @@
 <?php
+/**
+ * @author  Peter Hinchley
+ * @license http://sam.zoy.org/wtfpl
+ */
+
 trait Filter {
   protected static $_filters = [];
   protected static $_closure;
